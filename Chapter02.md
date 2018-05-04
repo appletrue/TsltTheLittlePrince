@@ -1,6 +1,10 @@
 ## Chapter2
 
-**-The narrator crashes in the desert and makes the acquaintance 相识 of 结识某人the little prince **
+** -The narrator crashes in the desert and makes the acquaintance 相识 of 结识某人the little prince **
+
+> crash /kræʃ/ ,
+
+飞机被撞毁在沙漠里，解说员，认识了小王了。
 
 So I lived my life alone, without anyone that I could really talk to,until I had an accident with my plane in the Desert of Sahara 撒哈拉沙漠, six years ago. Something was broken in my engine. And as I had with me neither a mechanic nor any passengers, I set myself to attempt the difficult repairs all alone (completely alone). It was a question of life or death for me: I had scarcely enough drinking water to last a week.
 
@@ -11,6 +15,14 @@ The first night, then, I went to sleep on the sand, a thousand miles from any hu
 "What!"
 
 "Draw me a sheep!"
+
+第一个晚上，我在距离人群聚居区千里之外的沙漠中入睡。
+
+请你，画一只绵羊给我吧。
+
+“什么？”
+
+“为我画一只羊！”
 
 I jumped to my feet, completely thunderstruck. I blinked (wink the eye, 眨眼睛) my eyes hard. I looked carefully all around me. And I saw a most extraordinary (extra+ordinary) small person, who stood there
 examining me with great seriousness. Here you may see the best potrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model. 
