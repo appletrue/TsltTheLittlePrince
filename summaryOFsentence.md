@@ -46,6 +46,10 @@
 
 23，set down, write down  写下...记下...
 
+24，on the second thought ,   仔细想了之后  On the second thought, I won't tell her the truth.
+
+25,
+
 
 
 
