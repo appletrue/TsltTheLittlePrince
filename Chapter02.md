@@ -8,7 +8,7 @@
 
 So I lived my life alone, without anyone that I could really talk to,until I had an accident with my plane in the Desert of Sahara 撒哈拉沙漠, six years ago. Something was broken in my engine. And as I had with me neither a mechanic nor any passengers, I set myself to attempt the difficult repairs all alone (completely alone). It was a question of life or death for me: I had scarcely enough drinking water to last a week.
 
-所以我一直孤独的生活，没有一个可以真正交心的，直到六年前我的飞机出故障在撒哈拉沙漠。引擎出了问题，既没有一个工程师，也没有任何乘客，完完全全是我一个人想尽一切办法艰难的修理它。我仅有维持一周的饮用水，要面临生存甚至死亡的问题。
+所以我一直孤独的生活，没有一个可以真正交心的，直到六年前我坠机在撒哈拉沙漠。引擎出了问题，既没有一个工程师，也没有任何乘客，完完全全是我一个人想尽一切办法艰难的修理它。我仅有维持一周的饮用水，要面临生存甚至死亡的问题。
 
 The first night, then, I went to sleep on the sand, a thousand miles from any human habitation. I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean. Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. It said:
 
@@ -44,7 +44,13 @@ That, however,is not my fault. The grown-ups discouraged me in my painter's care
 
 Now I stared at this sudden apparition (ghost, spirit, .鬼，幽灵) with my eyes fairly starting out of my head in astonishment. Remember, I had crashed in the desert a thousand miles from any inhabited 有人居住的region. And yet my little man seemed neither to be straying 迷路uncertainly among the sands, nor to be fainting from fatigue 疲劳 or hunger or thirst or fear. Nothing about him gave any suggestion of a child lost in the middle of the desert, a thousand miles from any human habitation. When at last I was able to speak, I said to him: "But ... what are you doing here?" 
 
-我盯着这个像鬼一样突然出现在我眼里的
+> stare at 注视，with my eyes fairly starting out of my head in astonishment 修饰spparition 的定语。
+> 
+> apparition ,a remarkable or unexpected appearance of someone or something, 表示出现令人惊奇的人或事
+> 
+> start = give a small jump from surprise or alarm 形容我的眼睛因为吃惊快掉下来了，“眼珠子都给我惊掉了”。
+
+我盯着这个像鬼一样突然出现在我面前差点让我惊掉了眼珠子的小家伙。
 
 And in answer he repeated, very slowly, as if he were speaking of a matter of great consequence: "If you please, draw me a sheep."
 
