@@ -74,8 +74,6 @@ In the course of (during) this life I have had a great many encounters (meet, �
 >
 > matters of consequence：要紧事； Matters Of Little Consequence ：琐碎之事
 
-
-
 Whenever I met one of them who seemed to me at all clear sighted (聪明的，精明的 ), I tried the experiment of showing him my Drawing Number One, which I have always kept. I would try to find out, so, if this was a person of true understanding. But, whoever it was, he or she would always say: "That is a hat."
 
 无论何时，如果遇到一个看起来聪明的人，我会尝试给他们看我保留着的第一幅画，看看这个人是否真的理解。但是，不管什么情况，他或者她大多都会说：『那是一顶帽子。』
@@ -83,5 +81,3 @@ Whenever I met one of them who seemed to me at all clear sighted (聪明的，�
 Then I would never talk to that person about boa constrictors, or primeval forests, or stars. I would bring myself down to his level. I would talk to him about bridge, and golf, and politics, and neckties(/'nɛk'tai/ 领带）. And the grown-up would be greatly pleased to have met such a sensible man. 
 
 我再也不会跟人讨论大蟒蛇，原始森林，或者星星的事。尽量和他们一致，我会和他们谈桥牌啊，高尔夫啊，政治啊，甚至领带。当然他们会觉得遇到了如此通情达理的一个人。
-
-
