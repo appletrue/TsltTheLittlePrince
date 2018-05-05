@@ -83,3 +83,5 @@ Whenever I met one of them who seemed to me at all clear sighted (聪明的，�
 Then I would never talk to that person about boa constrictors, or primeval forests, or stars. I would bring myself down to his level. I would talk to him about bridge, and golf, and politics, and neckties(/'nɛk'tai/ 领带）. And the grown-up would be greatly pleased to have met such a sensible man. 
 
 我再也不会跟人讨论大蟒蛇，原始森林，或者星星的事。尽量和他们一致，我会和他们谈桥牌啊，高尔夫啊，政治啊，甚至领带。当然他们会觉得遇到了如此通情达理的一个人。
+
+
