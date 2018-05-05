@@ -44,7 +44,7 @@ That, however,is not my fault. The grown-ups discouraged me in my painter's care
 
 Now I stared at this sudden apparition (ghost, spirit, .鬼，幽灵) with my eyes fairly starting out of my head in astonishment. Remember, I had crashed in the desert a thousand miles from any inhabited 有人居住的region. And yet my little man seemed neither to be straying 迷路uncertainly among the sands, nor to be fainting from fatigue 疲劳 or hunger or thirst or fear. Nothing about him gave any suggestion of a child lost in the middle of the desert, a thousand miles from any human habitation. When at last I was able to speak, I said to him: "But ... what are you doing here?" 
 
-
+我盯着这个像鬼一样突然出现在我眼里的
 
 And in answer he repeated, very slowly, as if he were speaking of a matter of great consequence: "If you please, draw me a sheep."
 
