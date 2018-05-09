@@ -2,13 +2,17 @@
 
 **The narrator speculates 推/猜测as to which asteroid 小行星 from which the little prince came.**
 
-
-
 I had thus learned a second fact of great importance: this was that the planet the little prince came from was scarcely any larger than a house!
+
+我还了解到了另一个非常重要的事：这就是小王子居住的星球比房子几乎大不了多少！
 
 But that did not really surprise me much. I knew very well that in addition to the great planets — such as the Earth, Jupiter 木星, Mars火星, Venus 金星 — to which we have given names, there are also hundreds of others, some of which are so small that one has a hard time (has difficulty) seeing them through the telescope (tele+scope). When an astronomer 天文学家 discovers one of these he does not give it a name, but only a number. He might call it, for example, "Asteroid 325." 
 
+但这并没有多么奇怪的，除了大的星球如地球，木星，火星，金星，这些有自己名字的，我知道还有上百个其他星球，有的星球小到望远镜很难观测到。当某个天文学家发现的时候，就给了一个数字编号而不是名字，比如，他们可能叫它，“行星325”。
+
 I have serious reason to believe that the planet from which the little prince came is the asteroid known as B-612. This asteroid has only once been seen through the telescope. That was by a Turkish astronomer, in 1909.
+
+我有足够的理由相信，
 
 On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration 演示论证. But he was in Turkish costume 装束 ; 服装, and so nobody would believe what he said.
 
