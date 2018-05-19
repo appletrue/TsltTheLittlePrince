@@ -54,11 +54,14 @@ For I do not want any one to read my book carelessly, I have suffered too much g
 我可不希望有人漫不经心地读我的书，写下这些回忆我忍受着太多的哀伤。我的朋友带着他的小羊已经离开整整六年了，我不想忘记他，我尽力把他的故事写下来。忘记一个朋友是有多么悲伤，并不是每个人都曾有过一个朋友的。如果我忘记了他，我和那些大人们有什么区别，只知道数字对其他失去好奇心。
 
 It is for that purpose, again, that I have bought a box of paints and some pencils. It is hard to take up drawing again at my age, when I have never made any pictures except those of the boa constrictor from the outside and the boa constrictor from the inside, since I was six. I shall certainly try to make my portraits as true to life  as possible. But I am not at all sure of success. One drawing goes along all right, and another has no resemblance (likeness， 相似) to its subject 对象. I make some errors, too, in the little
-prince's height: in one place he is too tall and in another too short.
+prince's height: in one place he is too tall and in another too short.And I feel some doubts about the color of his costume. So I fumble  along as best I can, now good, now bad, and I hope generally fair-to-middling .
 
-正因为如此，我又买了一盒颜料和一些铅笔，我在这个年纪，重新拿起画笔还真是有点困难，毕竟我只在六岁的时候只画过看得见肚皮和看不见肚皮里边的大蟒蛇再也没有画过任何东西了。我尽力的把他的画像画的尽可能逼真，可我也不
+> fair-to-middling , adj.,about average; acceptable
 
-And I feel some doubts about the color of his costume. So I fumble 摸索,笨手笨脚地做 along as best I can, now good, now bad, and I hope generally fair 较好的-to-middling 中等的，一般的.
+正因为如此，我又买了一盒颜料和一些铅笔，我在这个年纪，重新拿起画笔还真是有点困难，毕竟我只在六岁的时候只画过看得见肚皮和看不见肚皮里边的大蟒蛇再也没有画过任何东西了。我尽力的把他的画像画的尽可能逼真，可我还是没把握，有一张还可以，可另一张却一点也不像。对小王子的身高，我也拿不准，有些画的太高了，另外一些又太矮了。小王子服饰的颜色我也不确定，我笨手笨脚地摸索，有时好有时坏，我希望还能凑合着看。
 
-In certain more important details I shall make mistakes, also. But that is something that will not be my fault. My friend never explained anything to me. He thought, perhaps, that I was like himself. But I, alas (感叹 ) 哎呀 , do not know how to see sheep through the walls of boxes. Perhaps I am a little like the grown-ups.
-I have had to grow old. 
+In certain more important details I shall make mistakes, also. But that is something that will not be my fault. My friend never explained anything to me. He thought, perhaps, that I was like himself. But I, alas , do not know how to see sheep through the walls of boxes. Perhaps I am a little like the grown-ups.I have had to grow old. 
+
+> in certain ,在某些 ex:in a certain way 有点儿 ; 在某种意义上 ; 一定的方式 ; 按一定的方法;in the certain degree 在一定程度
+
+在某些重要的细节上，我也可能画错了。但那可能不是我的原因，我的朋友从来不会跟我解释任何事，也许他在想，他和我很像他自己吧，可我呢，哎，却不能透过盒子看到小羊。也许我有点像那些大人们了，不得不说我变老了。
