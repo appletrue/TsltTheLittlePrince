@@ -2,9 +2,9 @@
 
 **-We are warned as to the dangers of the baobabs 猴面包树**
 
-
-
 As each day passed I would learn, in our talk, something about the little prince's planet, his departure from it, his journey. The information would come very slowly, as it might chance to fall from his thoughts. It was in this way that I heard, on the third day, about the catastrophe (disaster, 大灾难; 大祸) of the baobabs.
+
+随着一天天过去，从我和小王子的交谈中，我了解到一些他的星球，出走和旅行的事。信息拼凑起来很慢，都是从他的只言片语中偶然知晓的。就这样，第三天我听说了面包树的灾难。
 
 This time, once more, I had the sheep to thank for it. For the little prince asked me abruptly — as if seized by a grave doubt — 
 
@@ -14,11 +14,19 @@ This time, once more, I had the sheep to thank for it. For the little prince ask
 
 "Ah! I am glad!"
 
-I did not understand why it was so important that sheep should eat little bushes.
-
-But the little prince added: "Then it follows that they also eat baobabs?"
+I did not understand why it was so important that sheep should eat little bushes.But the little prince added: "Then it follows that they also eat baobabs?"
 
 I pointed out to the little prince that baobabs were not little bushes, but, on the contrary, trees as big as castles; and that even if he took a whole herd of elephants away with him, the herd would not eat up (eat it all, 吃光) one single baobab. 
+
+这一次，又是小羊的事情，小王子看起来非常担忧的样子，突然地问我：『羊会吃小的灌木，是真的吗？』
+
+『是的，没错。』
+
+『啊！那太好啦！』
+
+我不明白为什么羊吃小的灌木会如此重要，小王子接着说：『那它也会吃猴面包树吗？』
+
+我告诉他说猴面包树不属于小的灌木，相反，它有城堡那么高大，即便你带回去一群大象，也不见得能吃光一棵猴面包树。
 
 The idea of the herd of elephants made the little prince laugh.
 
@@ -28,12 +36,19 @@ But he made a wise comment: "Before they grow so big, the baobabs start out by b
 
 "That is strictly correct," I said. "But why do you want the sheep to eat the little baobabs?"
 
-He answered me at once, "Oh, come, come!", as if he were speaking of something that was self-evident不言而喻的.
+He answered me at once, "Oh, come, come!", as if he were speaking of something that was self-evident.And I was obliged to make a great mental effort to solve this problem, without any assistance.
 
-And I was obliged to 不得不 make a great mental effort to solve this problem, without any assistance.
+小王子听到我说一群大象，笑了起来,『那我将不得不把他们一头头的摞起来』。
 
-Indeed, as I learned, there were on the planet where the little prince lived — as on all planets — good plants and bad plants. In consequence (therefore), there were good seeds from good plants, and bad seeds from bad plants. But seeds are invisible. They sleep deep in the heart of the earth's darkness, until some one among them is seized with the desire to awaken. Then this little seed will stretch itself and begin — timidly 胆小地; 羞怯地 at first — to push a charming little sprig细枝, 嫩枝 inoffensively upward toward the sun. If it is only a sprout 芽, 萌芽 of radish 小萝卜 or the sprig of a rosebush玫瑰丛, one would let it grow wherever it might wish. But when it is a bad plant, one must destroy it as soon as possible, the very first
-instant (moment) that one recognizes it.
+他又很聪明的说了一句，『在猴面包树长大前，他们也是小小一棵。』
+
+『当然没错』，我问他，『可是为什么希望小羊去吃小的猴面包树呢？』
+
+他马上回答我说：『噢，当然啦！』好像他说的这些事情是不言而喻的。我不得不自己想破脑壳去弄懂这些问题。
+
+Indeed, as I learned, there were on the planet where the little prince lived — as on all planets — good plants and bad plants. In consequence , there were good seeds from good plants, and bad seeds from bad plants. But seeds are invisible. They sleep deep in the heart of the earth's darkness, until some one among them is seized with the desire to awaken. Then this little seed will stretch itself and begin — timidly  at first — to push a charming little sprig inoffensively upward toward the sun. If it is only a sprout of radish or the sprig of a rosebush, one would let it grow wherever it might wish. But when it is a bad plant, one must destroy it as soon as possible, the very first instant (moment) that one recognizes it.
+
+
 
 Now there were some terrible seeds on the planet that was the home of the little prince; and these were the seeds of the baobab.
 
