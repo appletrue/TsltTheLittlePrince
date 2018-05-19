@@ -12,25 +12,37 @@ But that did not really surprise me much. I knew very well that in addition to t
 
 I have serious reason to believe that the planet from which the little prince came is the asteroid known as B-612. This asteroid has only once been seen through the telescope. That was by a Turkish astronomer, in 1909.
 
-我有足够的理由相信，
+> asteroid  /'æstərɔɪd/, n.any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter); adj. shaped like a star;  ex, asteroid belt小行星带
+> astronomer,/ə'strɑnəmɚ/,  a physicist who studies astronomy
 
-On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration 演示论证. But he was in Turkish costume 装束 ; 服装, and so nobody would believe what he said.
+我有足够的理由相信，小王子居住的星球，就是被编号 B-612 的星球，这颗星球仅仅在1909年，被一名土耳其天文学家通过望远镜观测到一次。
 
-Grown-ups are like that...
+On making his discovery, the astronomer had presented it to the International Astronomical Congress, in a great demonstration 演示论证. But he was in Turkish costume , and so nobody would believe what he said.Grown-ups are like that...
 
-Fortunately, however, for the reputation of Asteroid B-612, a Turkish dictator 独裁者 made a law that his subjects 臣民, under pain of death, should change to European costume. So in 1920 the astronomer gave his demonstration all over again, dressed with impressive style and elegance 高雅 ,优雅 . And this time everybody accepted his report.
+在一次国际天文会议上，这个天文学家对他的发现做了重要论证，但是因为他身着土耳其服饰，并没有人相信他说的话。大人们总是这样...
 
-If I have told you these details about the asteroid, and made a note of its number for you, it is on account of (because of) the grown ups and their ways. When you tell them that you have made a new friend, they never ask you any questions about essential matters.
 
-They never say to you, "What does his voice sound like? What games does he love best? Does he collect butterflies?" Instead, they demand: "How old is he? How many brothers has he? How much does he weigh? How much money does his father make?"
+Fortunately, however, for the reputation of Asteroid B-612, a Turkish dictator made a law that his subjects, under pain of death, should change to European costume. So in 1920 the astronomer gave his demonstration all over again, dressed with impressive style and elegance . And this time everybody accepted his report.
 
-Only from these figures do they think they have learned anything about him.
+> 
 
-If you were to say to the grown-ups: "I saw a beautiful house made of rosy brick, with geraniums 天竺葵in the windows and doves 鸽子 ,和平鸽 on the roof," they would not be able to get any idea of that house at all. You would have to say to them: "I saw a house that cost $20,000." Then they would exclaim: "Oh, what a pretty house that is!"
+幸运的是，土耳其的一位独裁者，为了B-612星球的荣誉，下令他的臣民改穿欧洲服饰，违令者死。之后在1920年 这位天文学家，穿着高雅的让人印象深刻的欧式衣服，重新做了论证，这一次，所有人都同意他的看法。
 
-Just so, you might say to them: "The proof that the little prince existed is that he was charming, that he laughed, and that he was looking for a sheep. If anybody wants a sheep, that is a proof that he exists." And what good would it do to tell them that? They would shrug 耸肩 their shoulders, and treat you like a child. But if you said to them: "The planet he came from is Asteroid B-612," then they would be convinced, and leave you in peace from their questions.
+If I have told you these details about the asteroid, and made a note of its number for you, it is on account of  the grown ups and their ways. When you tell them that you have made a new friend, they never ask you any questions about essential matters.They never say to you, "What does his voice sound like? What games does he love best? Does he collect butterflies?" Instead, they demand: "How old is he? How many brothers has he? How much does he weigh? How much money does his father make?"Only from these figures do they think they have learned anything about him.
 
-They are like that. One must not hold it against them. Children should always show great forbearance 忍耐 ; 宽容 toward grown-up people.
+> on account of , because of /from / by reason of / for the reason
+
+我告诉你们关于这颗星球的细节，列举这些数字给你，主要是因为那些大人，他们就喜欢数字。当你告诉他们，你交了新朋友，他们从来不会问一些重要问题，从来不会对你说：『他的声音好不好听？他最喜欢玩什么游戏？他喜欢收集蝴蝶吗？』相反的，他们会问：『他多大了？家里还有些什么人？他有多重？他爸爸赚多少钱？』只有通过这些数字，他们以为通过这些数字才能了解一个人。
+
+If you were to say to the grown-ups: "I saw a beautiful house made of rosy brick, with geraniums in the windows and doves on the roof," they would not be able to get any idea of that house at all. You would have to say to them: "I saw a house that cost $20,000." Then they would exclaim: "Oh, what a pretty house that is!"
+
+如果你对他们说，『我看到一座美丽的房子，玫瑰色的石砖，窗户有天竺葵，屋顶上还有鸽子』，他们根本感觉不到屋子有多漂亮。你应该这样说：『我看到一所价值两万美金的房子』，那样他们才会惊呼，『哇，那房子该有多漂亮啊！』
+
+Just so, you might say to them: "The proof that the little prince existed is that he was charming, that he laughed, and that he was looking for a sheep. If anybody wants a sheep, that is a proof that he exists." And what good would it do to tell them that? They would shrug their shoulders, and treat you like a child. But if you said to them: "The planet he came from is Asteroid B-612," then they would be convinced, and leave you in peace from their questions.They are like that. One must not hold it against them. Children should always show great forbearance 忍耐 ; 宽容 toward grown-up people.
+
+正因为如此，你可能要对他们这样说：『证明小王子存在就是他非常有魅力，他喜欢笑，他想要一只羊。如果有人想要一只羊，那就是小王子存在过。』之后他们会做什么？他们会耸耸肩膀，把你当一个小孩子看。可如果你这样说：『他来自B-612星球』，他们就深信不疑，不会对你提一大堆问题来纠缠。他们就是这样，
+
+
 
 But certainly, for us who understand life, figures are a matter of indifference. I should have liked to begin this story in the fashion of the fairy-tales. I should have like to say: "Once upon a time there was a little prince who lived on a planet that was scarcely any bigger than himself, and who had need of a sheep."
 
